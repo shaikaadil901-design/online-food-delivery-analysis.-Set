@@ -1,0 +1,24 @@
+﻿SOURCE / REFERENCE FILE
+========================
+
+Project: Online Food Delivery — Customer Behaviour & Feedback Analysis
+
+1. Dataset Source
+------------------
+Name: Online Food Dataset
+Provider: Kaggle
+Link: https: https://www.kaggle.com/datasets/srisyra02/online-food-ordering-dataset
+Size: 388 rows x 14 columns
+Description: Contains demographic information (Age, Gender, Marital Status,
+Occupation, Monthly Income, Educational Qualifications, Family size),
+location information (latitude, longitude, Pin code), and order details
+(Output, Feedback) collected from an online food ordering platform.
+
+2. Other References
+--------------------
+- Pandas documentation: https://pandas.pydata.org/docs/
+- Matplotlib documentation: https://matplotlib.org/stable/contents.html
+- Seaborn documentation: https://seaborn.pydata.org/
+
+
+
